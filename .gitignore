@@ -1,0 +1,4 @@
+# isme hmlg vo files likhte h jo nhi chahte h ki deployement k tym aaye
+node_modules
+.env
+package-lock.json
